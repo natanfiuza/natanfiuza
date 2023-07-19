@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanfiuza&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natanfiuza&layout=compact&langs_count=15&theme=ligth&card_width=350">
