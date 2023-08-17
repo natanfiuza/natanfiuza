@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi, I'm Nataniel Fiuza 👋
 
+- Currently working in [Gráfica JB](https://www.grafjb.com.br) as a Senior Developer. 
+<!--- [My resume](https://cv.pdf).
+- [My blog](https://). 
+- [Connect with me](https:///)!
+-->
 <!--
 **natanfiuza/natanfiuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanfiuza&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natanfiuza&layout=compact&langs_count=15&theme=ligth&card_width=350">
