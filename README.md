@@ -1,6 +1,9 @@
 # Hi, I'm Nataniel Fiuza 👋
 
+yeah I'm getting tired of the long description
+
 - Currently working in [Gráfica JB](https://www.grafjb.com.br) as a Senior Developer. 
+
 <!--- [My resume](https://cv.pdf).
 - [My blog](https://). 
 - [Connect with me](https:///)!
